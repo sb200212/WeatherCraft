@@ -1,5 +1,3 @@
-# Properly Formatted README for a Minecraft Themed Weather App
-
 ## WeatherCraft - A Minecraft Themed Weather App
 
 WeatherCraft is a weather application that combines weather data with a Minecraft-themed interface. It allows users to check the current weather, daily forecasts, and hourly forecasts for any location across the globe. The app displays different images based on the current weather condition, with a Minecraft font.
@@ -15,7 +13,7 @@ WeatherCraft is a weather application that combines weather data with a Minecraf
 
 ## Technologies Used
 
-- ReactJS
+- NodeJS
 - OpenWeather API
 
 ## Installation
@@ -54,11 +52,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Contact
 
-For any questions or inquiries, please contact the project maintainer at [email address].
-
-Citations:
-[1] https://devpost.com/software/weather-app-readme
-[2] https://github.com/Alex-Mathai-98/Text_VQA/blob/master/Data/new_answer_space.txt
-[3] https://github.com/andreaswilli/minecraft-weather
-[4] https://designmodo.com/weather-mobile-apps/
-[5] https://www.nhaccuatui.com/~/t/0/0/mmajunkie/~/lessperparesedown.cf/nha32GN7ctg4
+For any questions or inquiries, please contact the project maintainer at github.expedited229@silomails.com
