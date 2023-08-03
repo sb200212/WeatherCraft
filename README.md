@@ -23,7 +23,7 @@ To install and run the WeatherCraft app, follow these steps:
 1. Clone the repository: `git clone [repository URL]`
 2. Install the necessary dependencies: `npm install`
 3. Obtain an API key from OpenWeatherMap.
-4. Create a `.env` file in the root directory and add your API key: `REACT_APP_API_KEY=[your API key]`
+4. Create a `.env` file in the root directory and add your API key: 'API_KEY=[your API key]'
 5. Start the application: `npm start`
 
 ## Usage
