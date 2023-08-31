@@ -9,7 +9,7 @@
   outline: none;
   -webkit-tap-highlight-color: transparent;
   opacity: 100%;
-  /* transition: 0.25s; */
+  transition: 0.25s;
 }
 
 .mobile-navbar
@@ -38,7 +38,7 @@ body
 
 .navbar
 {
-  /* background: #212a51; */
+  background: #212a51;
   background: rgba(0, 0, 0, 0.375);
   text-align: right;
   opacity: 100%;
@@ -325,6 +325,4 @@ ul
     font-size: 18.75px;
   }
   
-
-
 }
